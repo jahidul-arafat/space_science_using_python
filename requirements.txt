@@ -1,8 +1,28 @@
-# Numeric & Science
-numpy
-
-# Plotting
-matplotlib
+# SPICE
+spiceypy
 
 # Interactive Shell
 ipython
+ipywidgets
+tqdm
+
+# Jupyterlab
+jupyterlab
+
+# Numerics and Science
+numpy
+pandas
+scipy
+pingouin
+
+# Plotting
+matplotlib
+imageio
+
+# Rendering, GUI
+visvis
+
+# Machine Learning
+scikit-learn
+# tensorflow
+# keras-tuner
