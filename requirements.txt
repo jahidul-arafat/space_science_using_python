@@ -1,0 +1,8 @@
+# Numeric & Science
+numpy
+
+# Plotting
+matplotlib
+
+# Interactive Shell
+ipython
